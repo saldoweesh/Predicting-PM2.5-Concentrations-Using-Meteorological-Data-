@@ -4,3 +4,6 @@ Condensations of PM 2.5 have turn into an issue worldwide, specifically in the U
 
 Reference: 
 S. A. AlDaweesh, "Predicting Hourly Particulate Matter (PM2.5) Concentrations Using Meteorological Data," 2019 International Conference on Computing, Electronics & Communications Engineering (iCCECE), 2019, pp. 136-140, Available online: https://ieeexplore.ieee.org/abstract/document/8941696 
+
+Dataset: Liang, X., S. Li, S. Zhang, H. Huang, and S. X. Chen (2016), PM2.5 data reliability, consistency, and air quality assessment in five Chinese cities, J. Geophys. Res. Atmos., 121, Available online: https://archive.ics.uci.edu/ml/datasets/PM2.5+Data+of+Five+Chinese+Cities#  
+
